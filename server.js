@@ -16,7 +16,7 @@ app.get('/ui/article-one',function(req,res){
    res.send('hi article 1'); 
 });
 https://cloud.imad.hasura.io/code/files/server.jsapp.get('/ui/article-two',function(req,res){
-   res.send('hi article 2'); 
+  res.send('hi article 2'); 
     
 });
 app.get('/ui/article-three',function(req,res){
